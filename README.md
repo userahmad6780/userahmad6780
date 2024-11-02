@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">An enthusiastic front-end developer with a passion for merging functionality and making innovative designs</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/gif/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.html">
+<img align="right" alt="Coding" width="400" src="https://vsgif.com/gif/2711857">
 
 - 🌱 I’m currently learning **Nodejs | Express**
 
